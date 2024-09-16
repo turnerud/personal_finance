@@ -1,3 +1,3 @@
 # personal_finance
 
-A new Flutter project.
+Flutter project that allows you to add transactions to a list and assign monetary values
